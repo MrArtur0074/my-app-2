@@ -1,0 +1,2 @@
+.iconEditStyle{float:right;margin-left:0}header{height:80px;width:100%;background-color:#222;grid-area:header}.testProject{display:grid;grid-template-areas:"header header" "nav content";grid-template-rows:80px 1fr;grid-template-columns:2fr 10fr}nav{grid-area:nav;background-color:#57b3ca;height:calc(100vh - 80px)}.content{grid-area:content}.navButton{margin:10px auto auto}.ImageIcon img{margin-left:4px;margin-top:4px}.textInfoCard{margin-left:18px;margin-top:8px;color:#605e5c}
+/*# sourceMappingURL=main.bd140f12.chunk.css.map */
